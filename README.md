@@ -1,3 +1,4 @@
+
 # JOL
 This is the official implementation of the paper "Joint Optimization Loss Function for Tiny Object Detection in Remote Sensing Images".
 ## Introduction
@@ -66,3 +67,19 @@ Links of other datasets:
 - AI-TODv2 (22.95 GB): [Google Drive](https://drive.google.com/drive/folders/1Er14atDO1cBraBD4DSFODZV1x7NHO_PY?usp=sharing)
 - SODA-D (24.95GB): [Google Drive](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EhXUvvPZLRRLnmo0QRmd4YUBvDLGMixS11_Sr6trwJtTrQ?e=PellK6)
 - MS COCO 2017 (19.97GB): [Model Scope](https://www.modelscope.cn/datasets/AI-ModelScope/coco/dataPeview)
+
+## Citation
+
+Welcome to cite this project in your research.
+
+```
+@article{rs17081476,
+  title = {Joint Optimization Loss Function for Tiny Object Detection in Remote Sensing Images},
+  author = {Shi, Shuohao and Fang, Qiang and Xu, Xin},
+  journal = {Remote Sensing},
+  year = {2025},
+  volume = {17},
+  number = {8},
+  pages = {1476},
+}
+```
